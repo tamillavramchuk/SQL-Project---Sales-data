@@ -7,6 +7,10 @@ This project shows SQL data analysis skills using a sales dataset. My goal was t
 - **order_details** – more details about the orders
 - **products** – information about diffferent types of the products
 
+## Primary and Foreign Keys
+- primary key was created for each of the tables mentioned above
+- some foreign keys were also created to show relations between tables
+
 ## Technology
 I have used 
 - Oracle SQL APEX
